@@ -1,0 +1,175 @@
+ 
+ header { 
+    background: #e41717;
+    width: 16%;
+    height: 100%;
+    position: fixed;
+    z-index: 100; 
+    }
+    nav {
+    float: left; 
+    }
+    nav ul { 
+    list-style: none; 
+    overflow: hidden;
+    }
+    nav ul li { 
+    float: left;   
+    font-size: 15px; 
+    }
+    nav ul li a { 
+    display: block;  
+    padding: 15px;
+    color: #3b0505; 
+    text-decoration: none; 
+    }
+    nav ul li:hover { 
+    background:#ee8d8d;
+    }
+    H1{
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: peso;
+      font-style: normal;
+      font-variation-settings:
+      "slnt" 0;
+        COLOR: rgb(228, 23, 23);
+        margin-left: 560px;
+          }
+     H2{
+        COLOR: rgb(228, 23, 23);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: peso;
+        font-style: normal;
+        font-variation-settings:
+        "slnt" 0;
+        FONT-SIZE:25px;
+        margin-left: 210px;
+       }
+     H3{
+        COLOR: rgb(228, 23, 23);
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: peso;
+        font-style: normal;
+        font-variation-settings:
+        "slnt" 0;
+        FONT-SIZE:30px;
+        margin-left: 480px;
+       }
+     H7{
+        font-size: 15px;
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: peso;
+        font-style: normal;
+        font-variation-settings:
+        "slnt" 0;
+       }
+     H8{
+      COLOR: #e41717;
+      font-family: "Inter", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: peso;
+ font-style: normal;
+ font-variation-settings:
+ "slnt" 0;
+      FONT-SIZE:23px;
+      margin-left: 210px;
+     }
+     H9{
+      COLOR: #e41717;
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: peso;
+      font-style: normal;
+      font-variation-settings:
+      "slnt" 0;
+      FONT-SIZE:20px;
+      margin-left: 210px;
+     }
+     P{
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: peso;
+      font-style: normal;
+        COLOR:#410202;
+        FONT-SIZE:18px;
+        margin-left: 210px;
+     }
+     LI{
+        COLOR:#410202;
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: peso;
+        font-style: normal;
+        FONT-SIZE:18PX;
+     }
+     footer{
+     background-color:#e41717;
+     color:#410202;
+     text-align: center;
+     padding:6px;
+     position: relative;
+     bottom: 0;
+     width: 81%;
+     left: 205px;
+    
+     }
+     H1.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }
+     H2.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }
+     H3.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }
+     H4.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }
+     H5.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }
+     H6.animate__fadeInDown{
+       animation-duration: 2s !important;
+     }  
+     nav.animate__slideInLeft{
+      animation-duration: 2s !important;
+    }
+     ol{ 
+      margin-left: 200px;
+     }
+     TABLE{
+      margin-left: 280px;
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: peso;
+      font-style: normal;
+     }
+     #logo-header {
+      float: left;
+      padding: 15px 0 0 20px;
+      text-decoration: none;
+    }
+      #logo-header:hover {
+        color: #ffdd9d;
+      }
+      
+      #logo-header .site-name {
+        display: block;
+        font-weight: 700;
+        font-size: 2em;
+      }
+      
+      #logo-header .site-desc {
+        display: block;
+        font-weight: 300;
+        font-size: 0.8em;
+        color: #999;
+      }
+      hr{
+        margin-left: 210px;
+      }
+      
