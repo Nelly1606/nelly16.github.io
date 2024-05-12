@@ -1,8 +1,7 @@
  
  header { 
     background: #e41717;
-    width: 16%;
-    height: 100%;
+    width: 100%;
     position: fixed;
     z-index: 100; 
     }
@@ -15,11 +14,17 @@
     }
     nav ul li { 
     float: left;   
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: peso;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
     font-size: 15px; 
     }
     nav ul li a { 
     display: block;  
-    padding: 15px;
+    padding: 10px;
     color: #3b0505; 
     text-decoration: none; 
     }
@@ -34,7 +39,6 @@
       font-variation-settings:
       "slnt" 0;
         COLOR: rgb(228, 23, 23);
-        margin-left: 560px;
           }
      H2{
         COLOR: rgb(228, 23, 23);
@@ -45,7 +49,6 @@
         font-variation-settings:
         "slnt" 0;
         FONT-SIZE:25px;
-        margin-left: 210px;
        }
      H3{
         COLOR: rgb(228, 23, 23);
@@ -56,7 +59,6 @@
         font-variation-settings:
         "slnt" 0;
         FONT-SIZE:30px;
-        margin-left: 480px;
        }
      H7{
         font-size: 15px;
@@ -76,7 +78,6 @@
  font-variation-settings:
  "slnt" 0;
       FONT-SIZE:23px;
-      margin-left: 210px;
      }
      H9{
       COLOR: #e41717;
@@ -87,7 +88,6 @@
       font-variation-settings:
       "slnt" 0;
       FONT-SIZE:20px;
-      margin-left: 210px;
      }
      P{
       font-family: "Plus Jakarta Sans", sans-serif;
@@ -96,7 +96,6 @@
       font-style: normal;
         COLOR:#410202;
         FONT-SIZE:18px;
-        margin-left: 210px;
      }
      LI{
         COLOR:#410202;
@@ -110,12 +109,10 @@
      background-color:#e41717;
      color:#410202;
      text-align: center;
-     padding:6px;
+     padding:10px;
      position: relative;
      bottom: 0;
-     width: 81%;
-     left: 205px;
-    
+     width: 100%;
      }
      H1.animate__fadeInDown{
        animation-duration: 2s !important;
@@ -138,11 +135,7 @@
      nav.animate__slideInLeft{
       animation-duration: 2s !important;
     }
-     ol{ 
-      margin-left: 200px;
-     }
      TABLE{
-      margin-left: 280px;
       font-family: "Plus Jakarta Sans", sans-serif;
       font-optical-sizing: auto;
       font-weight: peso;
@@ -169,7 +162,3 @@
         font-size: 0.8em;
         color: #999;
       }
-      hr{
-        margin-left: 210px;
-      }
-      
